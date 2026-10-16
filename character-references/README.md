@@ -1,4 +1,6 @@
-> 最新版：[第二版定妆图与道具（2026-10-16）](revised-20261016/README.md) · [下载新版 ZIP](revised-20261016/character_references_v2.zip)
+> 最新版：[第三版定妆修订](revision-3/README.md) · [下载第三版ZIP（14张）](revision-3/character_references_v3.zip)
+
+> 第二版：[第二版定妆图与道具（2026-10-16）](revised-20261016/README.md) · [下载新版 ZIP](revised-20261016/character_references_v2.zip)
 
 # 《第三种结局》角色定妆图
 
